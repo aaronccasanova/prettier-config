@@ -1,0 +1,22 @@
+{
+  "name": "@aaronccasanova/prettier-config",
+  "version": "1.0.0",
+  "description": "My personal prettier config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronccasanova/prettier-config.git"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "Aaron Casanova <aaronccasanova@gmail.com> (http://aaroncasanova.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronccasanova/prettier-config/issues"
+  },
+  "homepage": "https://github.com/aaronccasanova/prettier-config#readme"
+}
