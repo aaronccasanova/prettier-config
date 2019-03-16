@@ -1,5 +1,5 @@
 {
-  "name": "@aaronccasanova/prettier-config",
+  "name": "prettier-config-aaronccasanova",
   "version": "1.0.0",
   "description": "My personal prettier config",
   "main": "index.js",

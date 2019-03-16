@@ -1,4 +1,4 @@
-# `@aaronccasanova/prettier-config`
+# `prettier-config-aaronccasanova`
 
 > My personal [Prettier](https://prettier.io) config.
 
@@ -7,7 +7,7 @@
 **Install**:
 
 ```bash
-$ yarn add --dev @aaronccasanova/prettier-config
+$ yarn add --dev prettier-config-aaronccasanova
 ```
 
 **Edit `package.json`**:
@@ -15,14 +15,14 @@ $ yarn add --dev @aaronccasanova/prettier-config
 ```json
 {
   // ...
-  "prettier": "@aaronccasanova/prettier-config"
+  "prettier": "prettier-config-aaronccasanova"
 }
 ```
 
 **Or Edit `.prettierrc.js`**:
 ```javascript
 module.exports = {
-  ...require('@aaronccasanova/prettier-config')
+  ...require('prettier-config-aaronccasanova')
   // optional overrides
 }
 
